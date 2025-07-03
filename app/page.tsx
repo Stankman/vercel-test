@@ -39,7 +39,7 @@ export default async function HomePage() {
           priority
         />
         <div className="relative z-20 text-center max-w-4xl mx-auto px-4">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">Step into a high-demand career.</h1>
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">Step into a high-demand career...</h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100">
             Get hands-on training in growing industries with our industry-leading technical programs.
           </p>
